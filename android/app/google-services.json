@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029711433782",
+    "project_id": "dyfdlin",
+    "storage_bucket": "dyfdlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029711433782:android:7a8e72a6c42942b264c897",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylVuwEem1LFESC3lRp79dYW_X_uOJdWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
