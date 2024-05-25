@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions macos = FirebaseOptions(
-    ',
+    apiKey: '',
     appId: '1:1029711433782:ios:de9e0bdcd30a40f164c897',
     messagingSenderId: '1029711433782',
     projectId: 'dyfdlin',
